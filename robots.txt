@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://glictain.github.io/sitemap
+Sitemap: https://glictain.github.io/app/sitemap
+Sitemap: https://glictain.github.io/assets/sitemap
+Sitemap: https://glictain.github.io/css/sitemap
+Sitemap: https://glictain.github.io/includes/sitemap
+Sitemap: https://glictain.github.io/item/sitemap
+Sitemap: https://glictain.github.io/src/sitemap
